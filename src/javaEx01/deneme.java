@@ -6,6 +6,7 @@ public class deneme {
 		//Creating a new Java class
 		System.out.println("Hello Everyone");
 		//Hello hi
+		//Here is ibrahim conflicting changes
 
 	}
 
